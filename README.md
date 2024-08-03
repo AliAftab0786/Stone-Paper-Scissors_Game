@@ -2,6 +2,10 @@
 
 Welcome to the ultimate battle of wits and luck! Prepare to challenge the computer in this classic game of Rock, Paper, Scissors, now with a modern twist.
 
+## 🎮 Play Now!
+
+[Click here to play the game online](https://rock-paper-scissors-aliaftab.netlify.app/)
+
 ## 🌟 Features
 
 - 🎮 Simple, intuitive gameplay
@@ -12,11 +16,10 @@ Welcome to the ultimate battle of wits and luck! Prepare to challenge the comput
 
 ## 🚀 How to Play
 
-1. Clone this repository to your local machine
-2. Open `index.html` in your favorite browser
-3. Choose your weapon: Rock, Paper, or Scissors
-4. Watch as the computer makes its move
-5. Celebrate your victories or learn from your defeats!
+1. Visit the [game website](https://rock-paper-scissors-aliaftab.netlify.app/)
+2. Choose your weapon: Rock, Paper, or Scissors
+3. Watch as the computer makes its move
+4. Celebrate your victories or learn from your defeats!
 
 ## 🛠️ Technologies Used
 
